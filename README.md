@@ -13,6 +13,8 @@
   <img align="center" alt="Zyur-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img <img align="center" alt="Zyur-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
     <img <img align="center" alt="Zyur-DS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg"">
+    <img align="right" alt="zyur-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/104071865?v=4">
+</div>
 
   ##
  
